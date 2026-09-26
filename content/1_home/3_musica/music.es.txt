@@ -6,20 +6,18 @@ Intro:
 
 # Musica
 ---
-Actualmente Mutant From The Nebula está en producción para el lanzamiento de su primer 
-EP – **“Mutant Neuronal Reprograming”** el cual maneja un concepto de historia narrativa a través de las sus canciones.
+**Mutant From The Nebula** tiene un concepto de historia narrativa a través de sus canciones.
 
 ----
 
 Music:
 
-En este EP nos cuentan una historia post apocalíptica después de una gran invasión a nuestro planeta por seres alienígenas, esto obliga a la humanidad restante a comenzar un viaje por el universo y salvarlos de la extinción total. 
-
-El viaje será narrado a través de seis canciones donde contaran la travesía de supervivencia y la batalla contra el mutante **“Vortiouss”**.
+Nos cuentan una historia post apocalíptica después de una gran invasión a nuestro planeta por seres alienígenas, esto obliga a la humanidad restante a comenzar un viaje por el universo y salvarlos de la extinción total.
+El viaje será narrado a través de la música donde contaran la travesía de supervivencia y la batalla contra el mutante **“Nebulkrhen”.**
 
 ----
 
-Embed: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4IIz5C6Tp7z4Inhq6R8IqR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+Embed: <iframe title="Spotify Playlist" style="border-radius:12px" src="https://open.spotify.com/embed/artist/4IIz5C6Tp7z4Inhq6R8IqR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ----
 

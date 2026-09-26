@@ -5,15 +5,63 @@ Title: Tour
 Dates:
 
 - 
-  date: 2024-04-26
-  place: Foro Red Rum
-  tickets: >
-    https://www.facebook.com/mutantfromthenebula/
+  date: 2026-10-24
+  place: "Rock Live Bar Richard's, Cd. Guzmán, Jalisco"
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Rock%20Live%20Bar%20Richard%27s'
 - 
-  date: 2024-06-21
-  place: 'Av. México #3065, Sótano Col. Vallarta Norte'
-  tickets: >
-    https://www.facebook.com/mutantfromthenebula/
+  date: 2026-10-23
+  place: "Urban Bar, Zapotlanejo, Jalisco"
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Urban%20Bar'
+- 
+  date: 2026-10-16
+  place: "Mexicgore Death Fest Open Air (16 al 18 de octubre), Poncitlán, Jalisco"
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20Mexicgore%20Death%20Fest%20Open%20Air%202026'
+- 
+  date: 2026-09-18
+  place: "Novecientos Siete Centro Cultural, Black Abyss Vol. III"
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20Black%20Abyss%20Vol.%20III'
+- 
+  date: 2026-08-29
+  place: "Cuerda Cultura GDL, Mexafest"
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20Mexafest'
+- 
+  date: 2026-05-16
+  place: C4 concert House
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento'
+- 
+  date: 2026-06-20
+  place: "McCarthy's Las Américas"
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%'
+- 
+  date: 2026-02-28
+  place: C4 Concert House, Guadalajara, Jalisco
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Poncitlan'
+- 
+  date: 2025-10-17
+  place: Poncitlan Jalisco
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Poncitlan'
+- 
+  date: 2025-05-31
+  place: >
+    Sindicato de Trabajadores
+    Ferrocarrileros
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Poncitlan'
+- 
+  date: 2025-07-18
+  place: Foro Ritval
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Poncitlan'
+- 
+  date: 2025-09-13
+  place: La Zona Live
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Poncitlan'
+- 
+  date: 2025-10-01
+  place: Anexo Independencia, Guadalajara Jalisco
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Poncitlan'
+- 
+  date: 2025-10-04
+  place: Sahuayo, Michoacan
+  tickets: 'https://api.whatsapp.com/send?phone=523310828447&text=Quisiera%20boleto%20para%20el%20evento%20de%20MFTN%20en%20Poncitlan'
 
 ----
 

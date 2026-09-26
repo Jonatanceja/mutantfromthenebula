@@ -1,8 +1,8 @@
-Title: MFTN T-Shirt
+Title: Mutant T-Shirt
 
 ----
 
-Picture: - file://STVnXw5krxLmqEm2
+Picture: - file://hOzwuTZO9j3HgxyW
 
 ----
 
@@ -14,8 +14,8 @@ Description: Playera negra impresa en serigrafía, varias tallas.
 
 ----
 
-Tallas: CH, M, G, XG
+Tallas: XCH, CH, M, G, XG
 
 ----
 
-Uuid: s0S3y6SXZgnGe6Q6
+Uuid: yAn9DrH2Rx8Wp6Uw
