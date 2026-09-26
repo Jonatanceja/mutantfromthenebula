@@ -1,0 +1,7 @@
+title: Carrusel
+fields:
+  gallery:
+    type: files
+    label: Imagenes
+    layout: cards
+    size: huge

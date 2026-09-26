@@ -1,0 +1,18 @@
+title: Patrocinadores
+fields:
+  sponsors:
+    type: structure
+    label: Patrocinadores
+    fields:
+      name:
+        type: text
+        label: Nombre
+      logo:
+        type: files
+        label: Logo
+        max: 1
+        layout: cards
+        size: huge
+      address:
+        type: link
+        label: Dirección

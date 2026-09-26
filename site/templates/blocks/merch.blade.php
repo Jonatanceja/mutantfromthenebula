@@ -1,30 +1,26 @@
-<section class="py-10 md:py-16 bg-zinc-950 px-5" id="merch">
-    <div class="max-w-6xl mx-auto prose prose-invert prose-h1:uppercase prose-h1:tracking-widest prose-h1:text-2xl prose-p:tracking-widest poppins-light pb-10 md:pb-16"> 
-        <h2 class="uppercase mb-10 tracking-widest">{{ $page->title() }}</h2>
-        <hr>
-    </div>
-
-    <!--- Foreach --->
-    <div>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-5 md:gap-10 max-w-6xl mx-auto">
+<section class="py-16 md:py-28 px-5" id="merch">
+    <div class="max-w-6xl mx-auto">
+        <div class="reveal mb-10 md:mb-14">
+            <div class="tag mb-5">05 · Merch</div>
+            <h2 class="section-title">{{ $page->title() }}</h2>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
             @foreach ($page->children()->listed()->index() as $product)
-                <div class="text-white space-y-3 text-center relative">
+                <a href="{{ $product->url() }}" class="group reveal block border border-white/10 bg-[#101014] transition duration-300 hover:border-accent" aria-label="Ver producto">
                     @if ($image = $product->picture()->toFile())
-                    <div class="overflow-hidden relative">
-                        <a href="{{ $product->url() }}" aria-label="Ver producto">
-                            <picture>
-                                <source srcset="{{ $image->thumb(['format' => 'webp',])->url() }}" type="image/webp">
-                                <img class="w-full transform transition duration-500 hover:scale-110" src="{{ $image->url() }}" alt="{{ $site->title() }}">
-                            </picture>
+                    <div class="overflow-hidden">
+                        <picture>
+                            <source srcset="{{ $image->thumb(['format' => 'webp',])->url() }}" type="image/webp">
+                            <img class="w-full transition duration-700 group-hover:scale-105" src="{{ $image->url() }}" alt="{{ $product->title() }}">
+                        </picture>
                     </div>
-                        </a>
                     @endif
-                    <div>
-                        <div class="text-white tracking-widest poppins-light uppercase text-xl">{{ $product->title() }}</div>
-                        <div class="text-white"><span class="text-xs">$</span> {{ $product->price() }}</div>
+                    <div class="flex items-baseline justify-between gap-4 p-4">
+                        <div class="font-display text-2xl uppercase text-white tracking-wide">{{ $product->title() }}</div>
+                        <div class="font-tech text-sm text-accent whitespace-nowrap">$ {{ $product->price() }}</div>
                     </div>
-                </div>
+                </a>
             @endforeach
         </div>
-    
+    </div>
 </section>

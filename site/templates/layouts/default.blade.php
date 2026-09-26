@@ -34,12 +34,15 @@
     <link rel="manifest" href="/images/favicon/site.webmanifest">
     <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#08080a">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet" />
 </head>
-<body class="bg-zinc-950">
+<body class="bg-[#08080a]">
     @include('partials.header')
     @include('partials.social')
     @yield('content')

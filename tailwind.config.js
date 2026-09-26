@@ -6,7 +6,13 @@ import typography from '@tailwindcss/typography'
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   theme: {
-    extend: {},
+    extend: {
+      colors: { accent: 'var(--accent)' },
+      fontFamily: {
+        display: ["'Barlow Condensed'", 'sans-serif'],
+        tech: ["'JetBrains Mono'", 'monospace'],
+      },
+    },
   },
   variants: {
     extend: {},

@@ -7,19 +7,11 @@ export default defineConfig({
       input: ['resources/css/app.css', 'resources/js/app.js'],
       refresh: [...refreshPaths, 'site/templates/**'],
     }),
-    // Install "npm install --save-dev @vitejs/plugin-react" and uncomment if you need React
-    // react(),
-
-    // Install "npm install --save-dev @vitejs/plugin-vue" and uncomment if you need Vue
-    // vue({
-    //   template: {
-    //     transformAssetUrls: {
-    //       base: null,
-    //       includeAbsolute: false
-    //     }
-    //   }
-    // }),
   ],
+  server: {
+    // Herd sirve el sitio en https://*.test; sin esto el navegador bloquea los módulos JS del dev server (CORS)
+    cors: true,
+  },
   resolve: {
     alias: {
       '@': '/resources/js',
